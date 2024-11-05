@@ -1,4 +1,4 @@
-val jansi = "org.fusesource.jansi" % "jansi" % "2.4.0"
+val jansi = "org.fusesource.jansi" % "jansi" % "2.4.1"
 val junit = "com.novocode" % "junit-interface" % "0.11"
 val easymock = "org.easymock" % "easymock" % "3.3.1"
 val powermockVersion = "1.6.2"
